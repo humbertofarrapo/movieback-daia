@@ -24,12 +24,12 @@ const chatConfig = {
       webhookUrl:
         'https://n8n.incluc0de.com.br/webhook/movieback:chat',
     },
-  
+ 
     colors: {
-      botMessageBox: '#98A92C',
-      chatButton: '#509E2F',
-      botAvatarBorder: '#98A92C',
-      userAvatarBorder: '#509E2F',
+      botMessageBox: '#F5B7B7',
+      chatButton: '#4A90D9',
+      botAvatarBorder: '#D94A4A',
+      userAvatarBorder: '#8BC4F0',
     },
   };
   

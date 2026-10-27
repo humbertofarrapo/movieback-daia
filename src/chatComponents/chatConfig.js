@@ -2,15 +2,15 @@
 
 const chatConfig = {
     bot: {
-      name: 'MentorIA - IFB',
+      name: 'MovieBack',
   
       initialMessage:
-        'Olá! 👋 Eu sou o **MentorIA** e estou aqui para ajudar você a **compreender problemas de programação e construir suas próprias soluções algorítmicas**, passo a passo. Posso auxiliar com pseudocódigo, Portugol e diferentes linguagens de programação. Envie um problema, exercício ou código que esteja desenvolvendo e vamos construir a solução juntos. **Antes de começarmos, como posso chamar você?**',
+        'Olá! 👋 Eu sou o **MovieBack** 🎬 e estou aqui para ajudar você a descobrir filmes que combinem com seu gosto. Posso recomendar filmes de suspense, ação, comédia, romance, ficção científica e muito mais, além de sugerir títulos com base nos seus filmes favoritos. 🍿 **Me conte: que tipo de filme você está procurando hoje?**',
     },
   
     interface: {
-      headerText: 'Assistente Virtual - Programação',
-      placeholderText: 'Digite sua dúvida...',
+      headerText: 'Assistente Virtual - Recomendação',
+      placeholderText: 'Pergunte ao MovieBack...',
       loadingText: '🔎 Consultando a base de conhecimento',
     },
   

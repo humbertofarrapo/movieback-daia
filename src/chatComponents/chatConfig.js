@@ -17,7 +17,7 @@ const chatConfig = {
     images: {
       botAvatar: 'avatarAI.svg',
       userAvatar: 'avatarUser.svg',
-      banner: 'MentorIA_banner_300kb.svg',
+      banner: 'banner.jpg',
     },
   
     backend: {

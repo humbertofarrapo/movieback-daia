@@ -1,5 +1,5 @@
 /* ========================================
-   MentorIA - Personalização do Chat
+   Movieback - Personalização do Chat
    ======================================== */
 
 
@@ -16,7 +16,7 @@
    Banner
    ======================================== */
 
-.mentoria-banner {
+.movieback-banner {
     display: block;
 
     width: 100%;
@@ -87,7 +87,7 @@
 
 
 /* ========================================
-   Container das mensagens do MentorIA
+   Container das mensagens do Movieback
    ======================================== */
 
 .react-chatbot-kit-chat-bot-message-container {
@@ -106,7 +106,7 @@
 
 
 /* ========================================
-   Bolha das mensagens do MentorIA
+   Bolha das mensagens do Movieback
    ======================================== */
 
 .react-chatbot-kit-chat-bot-message {
@@ -139,7 +139,7 @@
 
 
 /* ========================================
-   Avatar do MentorIA
+   Avatar do Movieback
    ======================================== */
 
 .react-chatbot-kit-chat-bot-avatar-container {
@@ -148,7 +148,7 @@
 
 
 /* ========================================
-   Espaçamento entre mensagens do MentorIA
+   Espaçamento entre mensagens do Movieback
    ======================================== */
 
 .react-chatbot-kit-chat-bot-message-container
@@ -159,7 +159,7 @@
 
 
 /* ========================================
-   Seta da mensagem do MentorIA
+   Seta da mensagem do Movieback
    ======================================== */
 
 .react-chatbot-kit-chat-bot-message-arrow {
@@ -248,10 +248,10 @@
 
 
 /* ========================================
-   Markdown das respostas do MentorIA
+   Markdown das respostas do Movieback
    ======================================== */
 
-.mentoria-markdown {
+.movieback-markdown {
     width: 100%;
     max-width: 100%;
     min-width: 0;
@@ -265,7 +265,7 @@
 }
 
 
-.mentoria-markdown * {
+.movieback-markdown * {
     max-width: 100%;
 
     box-sizing: border-box;
@@ -276,7 +276,7 @@
    Parágrafos
    ======================================== */
 
-.mentoria-markdown p {
+.movieback-markdown p {
     margin: 0 0 10px 0;
 
     overflow-wrap: break-word;
@@ -284,7 +284,7 @@
 }
 
 
-.mentoria-markdown p:last-child {
+.movieback-markdown p:last-child {
     margin-bottom: 0;
 }
 
@@ -293,10 +293,10 @@
    Títulos
    ======================================== */
 
-.mentoria-markdown h1,
-.mentoria-markdown h2,
-.mentoria-markdown h3,
-.mentoria-markdown h4 {
+.movieback-markdown h1,
+.movieback-markdown h2,
+.movieback-markdown h3,
+.movieback-markdown h4 {
 
     margin-top: 16px;
     margin-bottom: 8px;
@@ -308,22 +308,22 @@
 }
 
 
-.mentoria-markdown h1 {
+.movieback-markdown h1 {
     font-size: 1.4rem;
 }
 
 
-.mentoria-markdown h2 {
+.movieback-markdown h2 {
     font-size: 1.25rem;
 }
 
 
-.mentoria-markdown h3 {
+.movieback-markdown h3 {
     font-size: 1.1rem;
 }
 
 
-.mentoria-markdown h4 {
+.movieback-markdown h4 {
     font-size: 1rem;
 }
 
@@ -332,8 +332,8 @@
    Listas
    ======================================== */
 
-.mentoria-markdown ul,
-.mentoria-markdown ol {
+.movieback-markdown ul,
+.movieback-markdown ol {
 
     margin: 8px 0;
 
@@ -341,7 +341,7 @@
 }
 
 
-.mentoria-markdown li {
+.movieback-markdown li {
     margin-bottom: 4px;
 
     overflow-wrap: break-word;
@@ -353,7 +353,7 @@
    Negrito
    ======================================== */
 
-.mentoria-markdown strong {
+.movieback-markdown strong {
     font-weight: 700;
 }
 
@@ -362,7 +362,7 @@
    Links
    ======================================== */
 
-.mentoria-markdown a {
+.movieback-markdown a {
     color: #276b27;
 
     text-decoration: underline;
@@ -377,7 +377,7 @@
 }
 
 
-.mentoria-markdown a:hover {
+.movieback-markdown a:hover {
     text-decoration: none;
 }
 
@@ -386,7 +386,7 @@
    Código inline
    ======================================== */
 
-.mentoria-markdown code {
+.movieback-markdown code {
     background: rgba(255, 255, 255, 0.65);
 
     border-radius: 4px;
@@ -410,7 +410,7 @@
    Blocos de código
    ======================================== */
 
-.mentoria-markdown pre {
+.movieback-markdown pre {
     display: block;
 
     width: 100%;
@@ -436,7 +436,7 @@
 }
 
 
-.mentoria-markdown pre code {
+.movieback-markdown pre code {
     display: block;
 
     width: max-content;
@@ -460,7 +460,7 @@
    Citações
    ======================================== */
 
-.mentoria-markdown blockquote {
+.movieback-markdown blockquote {
     width: 100%;
     max-width: 100%;
 
@@ -481,7 +481,7 @@
    Tabelas Markdown
    ======================================== */
 
-.mentoria-markdown table {
+.movieback-markdown table {
     width: 100%;
     max-width: 100%;
 
@@ -493,8 +493,8 @@
 }
 
 
-.mentoria-markdown th,
-.mentoria-markdown td {
+.movieback-markdown th,
+.movieback-markdown td {
 
     border: 1px solid rgba(0, 0, 0, 0.2);
 
@@ -508,7 +508,7 @@
 }
 
 
-.mentoria-markdown th {
+.movieback-markdown th {
     background: rgba(255, 255, 255, 0.35);
 }
 
@@ -517,7 +517,7 @@
    Imagens presentes no Markdown
    ======================================== */
 
-.mentoria-markdown img {
+.movieback-markdown img {
     display: block;
 
     width: auto;
@@ -532,7 +532,7 @@
    Linha horizontal Markdown
    ======================================== */
 
-.mentoria-markdown hr {
+.movieback-markdown hr {
     width: 100%;
 
     border: 0;
@@ -600,10 +600,10 @@
 
 
 /* =====================================================
-   Indicador de processamento do MentorIA
+   Indicador de processamento do Movieback
    ===================================================== */
 
-.mentoria-loading {
+.movieback-loading {
     position: absolute;
 
     /* Posiciona acima do campo de digitação */
@@ -641,7 +641,7 @@
    Texto do indicador
    ======================================== */
 
-.mentoria-loading-text {
+.movieback-loading-text {
     line-height: 1.3;
 
     overflow-wrap: normal;
@@ -730,7 +730,7 @@
        Banner
        ==================================== */
 
-    .mentoria-banner {
+    .movieback-banner {
         width: calc(100% - 100px);
         max-width: none;
 
@@ -793,7 +793,7 @@
 
 
     /* ====================================
-       Linha da mensagem do MentorIA
+       Linha da mensagem do Movieback
        ==================================== */
 
     .react-chatbot-kit-chat-bot-message-container {
@@ -810,7 +810,7 @@
 
 
     /* ====================================
-       Bolha do MentorIA
+       Bolha do Movieback
        ==================================== */
 
     .react-chatbot-kit-chat-bot-message {
@@ -863,7 +863,7 @@
        Markdown no Smartphone
        ==================================== */
 
-    .mentoria-markdown {
+    .movieback-markdown {
         width: 100% !important;
         max-width: 100% !important;
         min-width: 0 !important;
@@ -873,11 +873,11 @@
     }
 
 
-    .mentoria-markdown p,
-    .mentoria-markdown li,
-    .mentoria-markdown blockquote,
-    .mentoria-markdown td,
-    .mentoria-markdown th {
+    .movieback-markdown p,
+    .movieback-markdown li,
+    .movieback-markdown blockquote,
+    .movieback-markdown td,
+    .movieback-markdown th {
 
         overflow-wrap: break-word !important;
         word-break: normal !important;
@@ -889,7 +889,7 @@
        evitar que URLs extensas aumentem a largura.
     */
 
-    .mentoria-markdown a {
+    .movieback-markdown a {
         overflow-wrap: anywhere !important;
         word-break: break-word !important;
     }
@@ -899,7 +899,7 @@
        Código no Smartphone
        ==================================== */
 
-    .mentoria-markdown pre {
+    .movieback-markdown pre {
         display: block;
 
         width: 100%;
@@ -917,7 +917,7 @@
     }
 
 
-    .mentoria-markdown pre code {
+    .movieback-markdown pre code {
         max-width: none;
 
         white-space: pre;
@@ -931,7 +931,7 @@
        Tabelas no Smartphone
        ==================================== */
 
-    .mentoria-markdown table {
+    .movieback-markdown table {
         width: 100%;
         max-width: 100%;
 
@@ -939,8 +939,8 @@
     }
 
 
-    .mentoria-markdown th,
-    .mentoria-markdown td {
+    .movieback-markdown th,
+    .movieback-markdown td {
 
         padding: 6px;
 
@@ -955,7 +955,7 @@
        Imagens no Smartphone
        ==================================== */
 
-    .mentoria-markdown img {
+    .movieback-markdown img {
         display: block;
 
         width: auto;
@@ -1023,7 +1023,7 @@
        Loading no Smartphone
        ==================================== */
 
-    .mentoria-loading {
+    .movieback-loading {
         left: 8px;
 
         max-width: calc(100% - 16px);

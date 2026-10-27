@@ -22,7 +22,7 @@ const chatConfig = {
   
     backend: {
       webhookUrl:
-        'https://n8n.incluc0de.com.br/webhook/mentoria',
+        'https://n8n.incluc0de.com.br/webhook/movieback:chat',
     },
   
     colors: {

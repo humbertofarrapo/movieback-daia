@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import Chatbot from 'react-chatbot-kit';
 import 'react-chatbot-kit/build/main.css';
-import './ifbbot.css';
+import './mbbot.css';
 
 import MarkdownMessage from './MarkdownMessage';
 import chatConfig from './chatConfig';

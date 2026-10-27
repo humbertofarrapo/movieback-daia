@@ -15,8 +15,8 @@ const chatConfig = {
     },
   
     images: {
-      botAvatar: 'MentorIA_avatar.svg',
-      userAvatar: 'ifb_estudante_avatar.svg',
+      botAvatar: 'avatarAI.svg',
+      userAvatar: 'avatarUser.svg',
       banner: 'MentorIA_banner_300kb.svg',
     },
   

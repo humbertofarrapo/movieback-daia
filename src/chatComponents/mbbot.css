@@ -18,13 +18,12 @@
 
 .movieback-banner {
     display: block;
-
     width: 100%;
     max-width: var(--chat-max-width);
-    height: auto;
-
-    margin: 0 auto 20px auto;
-
+    height: 100px;
+    object-fit: cover;
+    object-position: center;
+    margin: 0 auto 8px auto;
     box-sizing: border-box;
 }
 

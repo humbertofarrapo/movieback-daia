@@ -21,10 +21,9 @@
    
     width: 100%;
     max-width: var(--chat-max-width);
-    height: 125px;
+    height: auto;
    
-    object-fit: cover;
-    object-position: center;
+    object-fit: contain;
    
     margin: 0 auto 8px auto;
     box-sizing: border-box;

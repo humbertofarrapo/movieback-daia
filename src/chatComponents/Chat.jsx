@@ -317,7 +317,7 @@ const ActionProvider = ({
       } catch (error) {
 
         console.error(
-          'Erro ao conectar com o webhook:',
+          'Erro ao conectar com o Webhook:',
           error
         );
 
@@ -423,7 +423,7 @@ export default function Chat() {
       <img
   src={`${import.meta.env.BASE_URL}${chatConfig.images.banner}`}
   alt={chatConfig.bot.name}
-  className="mentoria-banner"
+  className="movieback-banner"
 />
 
 
@@ -464,12 +464,12 @@ export default function Chat() {
 
           <div
             className=
-              "mentoria-loading"
+              "movieback-loading"
           >
 
             <span
               className=
-                "mentoria-loading-text"
+                "movieback-loading-text"
             >
               {
                 chatConfig
